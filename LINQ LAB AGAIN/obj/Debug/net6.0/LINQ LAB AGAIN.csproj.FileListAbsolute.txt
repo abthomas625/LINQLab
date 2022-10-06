@@ -1,0 +1,15 @@
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\bin\Debug\net6.0\LINQ LAB AGAIN.exe
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\bin\Debug\net6.0\LINQ LAB AGAIN.deps.json
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\bin\Debug\net6.0\LINQ LAB AGAIN.runtimeconfig.json
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\bin\Debug\net6.0\LINQ LAB AGAIN.dll
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\bin\Debug\net6.0\LINQ LAB AGAIN.pdb
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.csproj.AssemblyReference.cache
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.AssemblyInfoInputs.cache
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.AssemblyInfo.cs
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.csproj.CoreCompileInputs.cache
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.dll
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\refint\LINQ LAB AGAIN.dll
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.pdb
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\LINQ LAB AGAIN.genruntimeconfig.cache
+C:\Users\Abilena\source\repos\LINQ LAB AGAIN\LINQ LAB AGAIN\obj\Debug\net6.0\ref\LINQ LAB AGAIN.dll
